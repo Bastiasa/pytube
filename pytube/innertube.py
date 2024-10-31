@@ -85,7 +85,7 @@ _default_clients = {
         'context': {
             'client': {
                 'clientName': 'ANDROID_EMBEDDED_PLAYER',
-                'clientVersion': '17.31.35',
+                'clientVersion': '19.08.35',
                 'clientScreen': 'EMBED',
                 'androidSdkVersion': 30,
             }
